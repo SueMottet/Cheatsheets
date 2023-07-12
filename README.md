@@ -1,5 +1,4 @@
-# Cheat Sheets
-Data Science and Engineering Cheatsheets
+# Data Science Community Resources and Cheat Sheets
 
 ### Data Science Community Resources
 #### Kaggle: Machine Learning and Data Science Community
